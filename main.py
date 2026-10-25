@@ -43,8 +43,8 @@ window.mainloop()
 # import requests
 # from datetime import datetime
 
-# MY_LAT = 6.927079
-# MY_LONG = 79.861244
+# MY_LAT = 0.0
+# MY_LONG = 0.0
 
 # parameters = {
 #     "lat": MY_LAT,

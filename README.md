@@ -25,4 +25,4 @@ Keep `background.png` and `kanye.png` beside `main.py`. An internet connection i
 
 ## Privacy note
 
-The file also contains commented geolocation examples. Replace precise coordinates with obvious sample values before publishing or adapting those examples.
+The commented geolocation example uses neutral `0.0` coordinates. Supply any real location through private runtime configuration rather than committing it.
